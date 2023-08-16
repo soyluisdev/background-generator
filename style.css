@@ -7,7 +7,7 @@ body {
     text-transform: uppercase;
     letter-spacing: .5em;
     top: 15%;
-    background-image: linear-gradient(to right, white, grey);
+    background-image: linear-gradient(to right, rgb(193, 67, 193), rgb(80, 176, 224));
     display: flex;
     flex-wrap: wrap;
 
@@ -67,13 +67,55 @@ footer {
     width: 100%;
     align-items: center;
     padding: 2em;
+    text-align: center;
 }
 
 #left-right {
     font-family: 'Spline Sans', sans-serif;
-    color: black;
-    background-color: whitesmoke;
+    color: rgb(246, 246, 246);
+    background-color:blueviolet;
     padding: .5em 2em;
     border-radius: 5px;
+    border: 0px;
     
 }
+
+.container {
+    min-width: 100%;
+    background-color: aliceblue;
+    font-size: .7em;
+}
+
+.fs-4 {
+    padding-right: 10px;
+}
+
+.nav-pills .nav-link.active {
+    background-color: blueviolet !important;
+}
+
+footer {
+    color: black;
+    background-color: aliceblue;
+    padding: 10px;
+}
+
+.color1 {
+    border: 0px;
+    border-radius: 5px;
+    padding: 0px;
+}
+
+.color2 {
+    border: 0px;
+    border-radius: 5px;
+    padding: 0px;
+
+
+}
+
+.nav {
+    display: flex;
+    flex-wrap: wrap;
+}
+

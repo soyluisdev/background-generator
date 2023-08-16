@@ -5,7 +5,7 @@ var body = document.getElementById("gradient");
 var directionBtn = document.getElementById("left-right");
 
 function pickers() {
-    body.style.background= "linear-gradient(to " + directionBtn.textContent + ", " + color1.value +", " + color2.value + ")";
+    body.style.background = "linear-gradient(to " + directionBtn.textContent + ", " + color1.value +", " + color2.value + ")";
 
     css.textContent = body.style.background + ";" ;
 }
