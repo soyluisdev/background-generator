@@ -1,5 +1,5 @@
 # Background generator
 
-This basic background generator, created using Bootstrap and JavaScript, allows users to design custom gradient backgrounds by selecting their desired colors. This tool provides a simple and effective way for users to visualize and preview different gradient patterns for their projects. Additionally, it generates the CSS code needed to easily implement the gradient into their own projects.
+This background generator, made with Bootstrap and JavaScript, lets you create custom gradient backgrounds by choosing your favorite colors. It's an easy and effective way to see and preview different gradient patterns for your projects. Plus, it gives you the CSS code so you can easily add the gradient to your own code.
 
 <img src="background.png">
